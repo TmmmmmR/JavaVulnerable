@@ -1,4 +1,4 @@
-package com.fundoonotes.messagesservice;
+package org.cysecurity.cspf.jvl.controller;
 
 import javax.jms.JMSException;
 import javax.jms.Message;
